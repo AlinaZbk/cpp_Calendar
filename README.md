@@ -20,7 +20,7 @@
 
 ---
 
-#### Клонирование репозитория
+### Клонирование репозитория
 `git clone https://github.com/AlinaZbk/cpp_Calendar.git`  
 `cd cpp_Calendar`  
 
